@@ -1,0 +1,12 @@
+Source: ros-indigo-libvimba
+Section: misc
+Priority: extra
+Maintainer: Miquel Massot <miquel.massot@uib.cat>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-libvimba
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-catkin
+Description: The libvimba package
