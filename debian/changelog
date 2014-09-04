@@ -1,0 +1,15 @@
+ros-indigo-libvimba (0.0.2-0trusty) trusty; urgency=high
+
+
+
+ -- Miquel Massot <miquel.massot@uib.cat>  Wed, 03 Sep 2014 22:00:00 -0000
+
+ros-indigo-libvimba (0.0.1-0trusty) trusty; urgency=high
+
+  * added catkin run dependency
+  * init commit
+  * Contributors: Miquel Massot
+
+ -- Miquel Massot <miquel.massot@uib.cat>  Tue, 02 Sep 2014 22:00:00 -0000
+
+
